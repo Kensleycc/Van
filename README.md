@@ -1,3 +1,3 @@
 # Hello world.
 
-#cout<<"Just learning to use Github."<<endl;
+cout<<"Just learning to use Github."<<endl;
